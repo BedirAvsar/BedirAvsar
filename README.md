@@ -1,35 +1,57 @@
 # Hi, I'm Bedir
 
-Backend developer focused on building scalable and reliable systems.
+Backend developer focused on building scalable systems and real-world APIs.
 
 I have a background in Mechanical Engineering and transitioned into software development, focusing on backend technologies and system design.
 
 ---
 
-## What I Work With
+## Tech Stack
 
 - Java, Spring Boot  
 - Node.js, Express  
 - PostgreSQL, SQL  
-- REST APIs  
 - Docker  
-- GitHub Actions (CI/CD)  
+- REST APIs  
+- CI/CD (GitHub Actions)
 
 ---
 
 ## Projects
 
 ### Task API
-Backend REST API built with Node.js, Express, and PostgreSQL.
+Production-oriented REST API built with Node.js, Express, and PostgreSQL.
 
-- Authentication with JWT  
+- JWT-based authentication  
 - Input validation with Zod  
 - Testing with Jest & Supertest  
 - Dockerized and deployed  
 - CI pipeline with GitHub Actions  
 
 Live: https://task-api-wo1v.onrender.com  
-Repository: https://github.com/BedirAvsar/task-api  
+Repo: https://github.com/BedirAvsar/task-api  
+
+---
+
+### mini-vim_cli
+Minimal terminal-based text editor written in C.
+
+- Low-level system programming  
+- Terminal control (termios)  
+- Multi-stage Docker build  
+
+Repo: https://github.com/BedirAvsar/mini-vim_cli  
+
+---
+
+### Student Performance Analysis
+SQL-based data analysis project.
+
+- Database schema design  
+- Analytical queries  
+- Data exploration  
+
+Repo: https://github.com/BedirAvsar/student-performance-analysis  
 
 ---
 
